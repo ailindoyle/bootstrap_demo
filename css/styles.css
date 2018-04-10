@@ -14,7 +14,6 @@ body {
 .container {
     padding: 0 60px;
     margin: 0 auto;
-    border: 1px solid #d2d2d2;
 }
 
 .logo {
@@ -33,6 +32,13 @@ body {
     width: 100%;
     text-align: center;
     padding: 180px 0;
+}
+
+.learn-more {
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    padding: 90px 0;
 }
 
 .primary {
@@ -69,4 +75,14 @@ button:hover {
     background-color: #82bfd8;
     color: #ffffff;
     border: 1px solid #82bfd8;
+}
+
+.border {
+    border: 1px solid #d2d2d2;
+}
+
+.color-one {
+    background-color: #900C3F;
+    height: 500px;
+    width: 100%;
 }
