@@ -11,12 +11,37 @@ body {
     color: #ffffff;
 }
 
+.navbar {
+    border: none;
+}
+
+.container {
+    padding: 0 60px;
+    margin: 0 auto;
+}
+
 .logo {
     background-color: #69cfbf;
+    height: 100px;
 }
 
 .menu {
     color: #000000;
     background-color: #ffffff;
-    float: right;
+    height: 100px;
+}
+
+.cell {
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    padding: 180px 0;
+}
+
+.primary {
+    background-image: url("../images/main.jpg");
+}
+
+.text-background {
+    background-color: rgba(67,70,71,.4);
 }
