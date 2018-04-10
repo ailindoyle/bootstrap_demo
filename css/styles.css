@@ -45,6 +45,11 @@ body {
     background-image: url("../images/main.jpg");
 }
 
+.secondary {
+    background-image: url("../images/map.png");
+    background-repeat: no-repeat;
+}
+
 .text-background {
     background-color: rgba(67,70,71,.4);
 }
