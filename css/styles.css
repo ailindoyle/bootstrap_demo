@@ -82,7 +82,21 @@ button:hover {
 }
 
 .color-one {
-    background-color: #900C3F;
+    background-color: #900c3f;
     height: 500px;
-    width: 100%;
+}
+
+.color-two {
+    background-color: #ff5733;
+    height: 500px;
+}
+
+.color-three {
+    background-color: #00d2bb;
+    height: 500px;
+}
+
+.color-four {
+    background-color: #28e8ac;
+    height: 500px;
 }
