@@ -14,3 +14,9 @@ body {
 .logo {
     background-color: #69cfbf;
 }
+
+.menu {
+    color: #000000;
+    background-color: #ffffff;
+    float: right;
+}
