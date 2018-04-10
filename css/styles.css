@@ -11,13 +11,10 @@ body {
     color: #ffffff;
 }
 
-.navbar {
-    border: none;
-}
-
 .container {
     padding: 0 60px;
     margin: 0 auto;
+    border: 1px solid #d2d2d2;
 }
 
 .logo {
@@ -44,4 +41,32 @@ body {
 
 .text-background {
     background-color: rgba(67,70,71,.4);
+}
+
+.villa-one {
+    background-image: url("../images/first.jpg");
+}
+
+.villa-two {
+    background-image: url("../images/second.jpg");
+}
+
+.villa-three {
+    background-image: url("../images/third.jpg");
+}
+
+.more-info {
+    background-color: #ffffff;
+    color: #434647;
+}
+
+button {
+    color: #82bfd8;
+    border: 1px solid #82bfd8;
+}
+
+button:hover {
+    background-color: #82bfd8;
+    color: #ffffff;
+    border: 1px solid #82bfd8;
 }
